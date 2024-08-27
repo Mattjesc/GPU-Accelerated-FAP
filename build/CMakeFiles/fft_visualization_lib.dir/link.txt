@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfft_visualization_lib.a CMakeFiles/fft_visualization_lib.dir/fft_visualization.cu.o
+/usr/bin/ranlib libfft_visualization_lib.a

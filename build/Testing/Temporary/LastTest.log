@@ -1,0 +1,32 @@
+Start testing: Aug 27 21:43 +08
+----------------------------------------------------------
+1/1 Testing: fft_visualization_test
+1/1 Test: fft_visualization_test
+Command: "/home/matt/CodeUbuntu/cuda_projects/build/fft_visualization_test"
+Directory: /home/matt/CodeUbuntu/cuda_projects/build
+"fft_visualization_test" start time: Aug 27 21:43 +08
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from FFTVisualizationTest
+[ RUN      ] FFTVisualizationTest.CalculateMagnitude
+[       OK ] FFTVisualizationTest.CalculateMagnitude (0 ms)
+[ RUN      ] FFTVisualizationTest.CalculatePhase
+[       OK ] FFTVisualizationTest.CalculatePhase (0 ms)
+[ RUN      ] FFTVisualizationTest.GenerateInputData
+[       OK ] FFTVisualizationTest.GenerateInputData (0 ms)
+[----------] 3 tests from FFTVisualizationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"fft_visualization_test" end time: Aug 27 21:43 +08
+"fft_visualization_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 27 21:43 +08
