@@ -1,5 +1,7 @@
 # GPU-Accelerated Frequency Analysis Prototype using CUDA, Unit Testing, and User-Defined Settings
 
+![image](https://github.com/user-attachments/assets/6919bd71-5c57-4e24-8847-5b5f2ad4a7df)
+
 ## Overview
 
 This project is a GPU-accelerated frequency analysis prototype that utilizes CUDA for high-performance computing, unit testing for validation, and user-defined settings for flexibility. The prototype performs Fast Fourier Transform (FFT) on various signal types and visualizes the frequency spectrum, allowing users to configure signal types and scaling factors.
@@ -109,7 +111,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to NVIDIA for the CUDA Toolkit and cuFFT library.
 - Thanks to the Google Test team for the testing framework.
-
-## Contact
-
-For any questions or feedback, please open an issue on the GitHub repository.
